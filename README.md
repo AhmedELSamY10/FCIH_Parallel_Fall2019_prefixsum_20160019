@@ -1,7 +1,9 @@
 # FCIH_Parallel_Fall2019_prefixsum_20160019
 
 ahmed samy ahmed ali  20160019
+
 nouran mosaad saad    20160479
+
 john magdy ezzat      20160121
 
 
